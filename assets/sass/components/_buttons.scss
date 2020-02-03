@@ -1,0 +1,22 @@
+.btn-secondary.disabled, .btn-secondary:disabled{
+  color:$platinum;
+  background-color:$raisinblack ;
+  border-radius: 25px;
+
+}
+.btn-primary.disabled, .btn-primary:disabled{
+  border-radius: 25px;
+  color:$platinum;
+  background-color:$raisinblack ;
+}
+
+.justify-content-center{
+  background-color: $platinum;
+  padding-top: 50px;
+}
+
+
+.paginador{
+  background-color: $platinum;
+  height: 150px;
+}

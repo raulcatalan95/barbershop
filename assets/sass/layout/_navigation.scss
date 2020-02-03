@@ -1,0 +1,16 @@
+nav .container a img {
+  height: 50px;
+  width: 80px;
+
+}
+nav{
+  background-color:$eerieblack ;
+}
+
+.nav-link{
+  color:white;
+}
+.nav-link:hover{
+  color:$ruddypink ;
+  transition: 200ms all;
+}

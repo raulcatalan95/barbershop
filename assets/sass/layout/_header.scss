@@ -1,0 +1,17 @@
+.foto-portada{
+  background-image: url("../img/post-image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: $white;
+  height: 700px;
+}
+.cuidar-cabello{
+text-align: center;
+padding-top: 250px;
+}
+.cuidar-cabello h1{
+  font-size: $xx-large;
+  font-family: $playfair;
+  font-weight: $blackitalic;
+  font-style: italic;
+}
