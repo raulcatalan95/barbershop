@@ -9968,12 +9968,12 @@ nav {
 
 footer {
   background-color: black;
+  padding: 3rem;
 }
 
 footer img {
-  height: 100px;
-  width: 200px;
-  margin-left: 580px;
+  width: 10%;
+  margin: 0% 45% 0% 45%;
 }
 
 .btn-secondary.disabled, .btn-secondary:disabled {
@@ -9996,6 +9996,17 @@ footer img {
 .paginador {
   background-color: #E6E7E7;
   height: 150px;
+}
+
+.page-item:first-child .page-link {
+  margin-left: 0;
+  border-top-left-radius: 1.25rem;
+  border-bottom-left-radius: 1.25rem;
+}
+
+.page-item:last-child .page-link {
+  border-top-right-radius: 1.25rem;
+  border-bottom-right-radius: 1.25rem;
 }
 
 /*# sourceMappingURL=style.css.map */
